@@ -8,4 +8,6 @@ ruby-jr has four commands:
     * the `-v` flag provides an overview of items that Ruby Jr thinks you need
     to order now.
  * `rjr update` or `rjr -u` pulls the latest inventory info from Airtable.
- * `rjr order` or `rjr -o` takes the info displayed with
+ * `rjr order` or `rjr -o` takes the items Ruby Jr thinks you need to order
+    (which can be viewed with `rjr status -v` or `rjr -sv`) and adds them to
+    your cart on Webstraunt Store.
