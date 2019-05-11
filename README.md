@@ -1,2 +1,6 @@
 # underground-coffee
-Website and scripts for The Underground Coffee Company
+Website and scripts for The Underground Coffee Co.
+
+/docs contains the live files for the website. Anything pushed to this folder goes live.
+
+/ordering scripts has plans for a script for automating ordering
